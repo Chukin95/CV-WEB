@@ -90,9 +90,13 @@ body > header {
     flex-wrap: wrap;
 }
 
-.brand  {
-    color: white;
+.brand {
+
     margin: 100px;
+}
+
+.brand > a {
+    color: mediumseagreen;
 }
 
 body > main {
