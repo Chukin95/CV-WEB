@@ -37,12 +37,12 @@ nav > ul > li {
     align-items: center;
 }
 
-nav > ul > li:active {
-    background-color: #11ff11;
-}
-
 nav > ul > li:hover {
     background-color: #1f761f;
+}
+
+nav > ul > li:active {
+    background-color: rgb(83, 248, 157);
 }
 
 nav > ul > li > a {
