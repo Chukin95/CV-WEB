@@ -99,6 +99,14 @@ body > header {
     color: mediumseagreen;
 }
 
+.brand > a:hover {
+    color: rgb(86, 255, 162);
+}
+
+.brand > a:active {
+    color: rgb(150, 255, 220);
+}
+
 body > main {
     display: flex;
     flex-direction: row;
